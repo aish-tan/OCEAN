@@ -1,0 +1,9 @@
+#Copied chembl_27_postgresql.tar.gz from CHEMBL website
+#Environment and Packages:
+$conda create --name ocean_env
+python-3.9.0
+rdkit-2020.03.6
+scipy-1.5.2
+django-3.1.2
+postgresql-12.3
+matplotlib-3.3.2
