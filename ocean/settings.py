@@ -144,7 +144,8 @@ CMPD_NM_CUTOFF = 10000
 PARALLEL_PROCESSES =  6 # for my workstation
 ORGANISM = "Homo sapiens"
 
-CHEMBL_VERSION = "chembl_%d" % (25)
+# CHEMBL_VERSION = "chembl_%d" % (25)
+CHEMBL_VERSION = "chembl_%d" % (17)
 
 SUBDOMAIN = 'ocean'
 HTTP_PORT = '8081'
